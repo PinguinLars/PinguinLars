@@ -1,5 +1,10 @@
-## Hi there 👋
+## Who am I?
+My name is PinguinLars, but you can call me Pinguin (or Penguin) or Lars.  
+I'm a student who wants to learn how to code in Java and other languages.
+I'm Dutch and that is my first language, but I can speak Englisch fine.
 
+## My goals
+I want to learn Java, but also other things like how to make a website or how to make an app.
 <!--
 **PinguinLars/PinguinLars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
