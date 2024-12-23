@@ -15,11 +15,13 @@ I'm currently learning Java, but I do want to learn JS so that I can make websit
 ## My favorite tools to use
 - IntelliJ IDEA (I use the Ultimate version, because I'm a student)
 - Teams workflows (To create teams logs for my projects)
-- Github (To more easily share my code with my teacher)
+- GitHub (To more easily share my code with my teacher)
 - Micro:bit (To use as an output port for my projects)
 - Samsung Flow (To use my S21 as an input device (Mostly as a camera) for my projects)
 - MS Word (I use it to make reports for my school projects, but I hate it)
 
+## My most recent project(s)
+- [PinguinLars/Anti-Boskap](https://github.com/PinguinLars/Anti-Boskap) (A WIP school project for a prototype that can detect illegal forest cutting)
 <!--
 **PinguinLars/PinguinLars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
