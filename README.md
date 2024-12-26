@@ -26,6 +26,6 @@ I'm currently learning Java and Markdown, but I do want to learn JS so that I ca
 ## Pronouns
 You can use he/him/hij/zijn, but I don't realy care that much about pronouns.
 
-##### I use viligainte mode, every unsigned commit after 1/1/2025 I didn't make.
+##### I use viligainte mode, every unverified commit after 1/1/2025 I didn't make or just forgot to sign.
 
 *I use light mode, fight me*
