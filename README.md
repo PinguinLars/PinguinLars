@@ -9,8 +9,8 @@ I'm currently learning Java and Markdown, but I do want to learn JS so that I ca
 (I'm also learning German and other school stuff, but that is not coding so...)
 
 ## GitHub stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PinguinLars&hide=stars&show=prs_merged_percentage&hide_title=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PinguinLars&hide=stars&show=prs_merged_percentage&hide_title=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![PinguinLars's GitHub stats](https://github-readme-stats.vercel.app/api?username=PinguinLars&hide=stars&show=prs_merged_percentage&hide_title=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![PinguinLars's GitHub stats](https://github-readme-stats.vercel.app/api?username=PinguinLars&hide=stars&show=prs_merged_percentage&hide_title=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ## My favorite tools to use
 - IntelliJ IDEA (I use the Ultimate version, because I'm a student 🤷)
@@ -25,5 +25,7 @@ I'm currently learning Java and Markdown, but I do want to learn JS so that I ca
 
 ## Pronouns
 You can use he/him/hij/zijn, but I don't realy care that much about pronouns.
+
+##### I use viligainte mode, every unsigned commit after 1/1/2025 I didn't make.
 
 *I use light mode, fight me*
