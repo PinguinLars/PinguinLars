@@ -8,9 +8,10 @@ I'm from the Netherlands 🇳🇱 and Dutch is my first language, but I can spea
 I'm currently learning Java and Markdown, but I do want to learn JS so that I can make websites.  
 (I'm also learning German and other school stuff, but that is not coding so...)
 
+<!--
 ## GitHub stats
 [![PinguinLars's GitHub stats](https://github-readme-stats.vercel.app/api?username=PinguinLars&hide=stars&show=prs_merged_percentage&hide_title=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![PinguinLars's GitHub stats](https://github-readme-stats.vercel.app/api?username=PinguinLars&hide=stars&show=prs_merged_percentage&hide_title=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![PinguinLars's GitHub stats](https://github-readme-stats.vercel.app/api?username=PinguinLars&hide=stars&show=prs_merged_percentage&hide_title=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) -->
 
 ## My favorite tools to use
 - IntelliJ IDEA (I use the Ultimate version, because I'm a student 🤷)
