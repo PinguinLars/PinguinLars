@@ -38,6 +38,4 @@ You can use he/him/hij/zijn, but I don't really care that much about pronouns.
 
 ##### I use vigilante mode, every unverified commit after 1/1/2025 I didn't make, just forgot to sign or my IDE unchecked the box.
 
-*I use light mode, fight me*
-
-<button type="button" onclick="alert(`Oke, I underestimated you`)"> Fight me</button>
+*I use light mode, fight me* <!-- no button :( -->
