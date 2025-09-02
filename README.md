@@ -5,10 +5,10 @@ I'm Pinguin (or Penguin). (It is broken Dutch.) I'm a Dutch student that likes p
 ## What I'm Learning
 
 These are the langauges I'm learling (and which I know, because I'm always learling):
-- Java
-- Kotlin
 - Rust
 - German
+
+I also like my journey with embedded systems.
 
 ## My favorite tools
 
@@ -25,6 +25,11 @@ These are the langauges I'm learling (and which I know, because I'm always learl
 - Kobweb
 - Ktor
 - Cargo
+
+## My favorite langauges
+- Java
+- Kotlin
+- Rust
 
 ## Pronouns
 He/they, but all are fine.
